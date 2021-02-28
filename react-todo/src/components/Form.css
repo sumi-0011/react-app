@@ -1,0 +1,21 @@
+.form_div {
+    height: 30px;
+}
+.todoInputText {
+ width: 80%;
+ font-family: cursive;
+ height: 30px;
+ border: 0px;
+ border-bottom: 2px solid #bac8ff;;
+ background-color: #dbe4ff;
+
+}
+.addBt {
+     font-family: cursive;
+     height: 35px;
+     border: 0px;
+     background-color: #dbe4ff;
+    font-size: 25px;
+    color: #91a7ff;
+    padding-bottom: 0px;
+}

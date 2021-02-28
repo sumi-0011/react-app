@@ -1,0 +1,27 @@
+.todoItem {
+    /* color: red; */
+    /* font-size: 10px; */
+    margin-bottom: 5px;
+    color: #4c6ef5;
+    font-size: large;
+}
+.todo {
+    color: #4263eb;
+}
+
+.checked {
+    text-decoration:line-through;
+}
+.notChecked {
+    text-decoration: none;
+    /* color: black; */
+}
+.remove {
+  float: right;
+}
+.removeBt {
+    background-color: #dbe4ff;
+    border:0px;
+    color : #4c6ef5;
+    border-radius: 5px;
+}
